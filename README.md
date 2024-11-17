@@ -1,4 +1,4 @@
-## **Introduce**
+## **🤗 Introduce**
 > ### Go beyond impossible
 안녕하세요! **임베디드 개발자**를 목표로 공부중인 **김서영**입니다.
 
